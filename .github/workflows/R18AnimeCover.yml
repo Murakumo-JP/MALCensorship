@@ -29,6 +29,9 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git fetch origin main
+          git checkout main
           git add R18Anime.css
-          git commit -m "Update R18Cover"
+          git diff --cached --quiet && exit 0
+          git commit -m "Update Censorship List"
           git push
