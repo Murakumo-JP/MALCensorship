@@ -16,8 +16,12 @@ with open(file_path, 'r') as f:
     for line in f:
         existing_entries.add(line.strip())
 
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+}
+
 while True:
-    request = requests.get(f"https://myanimelist.net/manga/genre/12/Hentai?page={page}")
+    request = requests.get(f"https://myanimelist.net/manga/genre/12/Hentai?page={page}", headers=headers)
     soup = BeautifulSoup(request.text, 'html.parser')
     links = soup.find_all("a", class_="link-title")
 
