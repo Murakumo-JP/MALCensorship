@@ -6,3 +6,10 @@
 
 The main style repository is located here [MyAnimeList-CSS
 ](https://github.com/Murakumo-JP/MyAnimeList-CSS)
+
+
+Simple import to css style
+
+```css
+@\import "https://murakumo-jp.github.io/MALCensorship/R18Cover.min.css";
+```
