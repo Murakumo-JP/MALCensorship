@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 import requests
 import re
 import os
-from tqdm import tqdm
 
 def fetch_page(url, headers):
     try:
@@ -40,26 +39,26 @@ def scrape_r18_data(base_url, file_path, headers):
     new_entries = set()
     existing_entries = read_existing_entries(file_path)
     
-    with tqdm(desc=f"Scraping {file_path}", unit="page") as pbar:
-        while True:
-            url = f"{base_url}?page={page}"
-            html = fetch_page(url, headers)
-            if not html:
-                break
+    while True:
+        print(f"Fetching page {page} of {base_url}...")
+        url = f"{base_url}?page={page}"
+        html = fetch_page(url, headers)
+        if not html:
+            break
 
-            links = extract_links(html)
-            if not links:
-                print("No more pages found. Exiting.")
-                break
+        links = extract_links(html)
+        if not links:
+            print("No more pages found. Exiting.")
+            break
 
-            for link in links:
-                new_entry = process_link(link)
-                if new_entry not in existing_entries:
-                    new_entries.add(new_entry)
-                    existing_entries.add(new_entry)
-            
-            page += 1
-            pbar.update(1)
+        for link in links:
+            new_entry = process_link(link)
+            if new_entry not in existing_entries:
+                print(f"Adding new entry: {new_entry}")
+                new_entries.add(new_entry)
+                existing_entries.add(new_entry)
+
+        page += 1
 
     if new_entries:
         append_new_entries(file_path, new_entries)
