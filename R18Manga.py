@@ -8,17 +8,15 @@ page = 1
 
 file_path = 'R18Manga.css'
 
-if not os.path.exists(file_path):
-    open(file_path, 'w').close()
-
-existing_entries = set()
-with open(file_path, 'r') as f:
-    for line in f:
-        existing_entries.add(line.strip())
-
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
+
+existing_entries = set()
+if os.path.exists(file_path):
+    with open(file_path, 'r') as f:
+        for line in f:
+            existing_entries.add(line.strip())
 
 while True:
     print(f"Fetching page {page}...")
@@ -42,8 +40,9 @@ while True:
             animelist.append(new_entry)
             existing_entries.add(new_entry)
 
-with open(file_path, 'a') as f:
-    for index in animelist:
-        f.write(index + '\n')
+if animelist:
+    with open(file_path, 'a') as f:
+        for index in animelist:
+            f.write(index + '\n')
 
 print("Scraping completed. New entries added to R18Manga.css")
