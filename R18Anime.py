@@ -7,12 +7,8 @@ animelist = []
 page = 1
 
 file_path = 'R18Anime.css'
-
-if os.path.exists(file_path):
-    with open(file_path, 'r') as f:
-        existing_lines = set(line.strip() for line in f)
-else:
-    existing_lines = set()
+if not os.path.exists(file_path):
+    open(file_path, 'w').close()
 
 while True:
     request = requests.get(f"https://myanimelist.net/anime/genre/12/Hentai?page={page}")
@@ -27,10 +23,7 @@ while True:
     for link in links:
         temp = re.sub(r'(?:.*?myanimelist\.net)', '', link.get('href'))
         temp = re.sub(r'\/[^\/]*?$', '', temp)
-        new_entry = f'.data.image a[href^="{temp}/"]:before{{content: var(--R18);}}'
-        if new_entry not in existing_lines:
-            animelist.append(new_entry)
-            existing_lines.add(new_entry)
+        animelist.append(f'.data.image a[href^="{temp}/"]:before{{content: var(--R18);}}')
 
 with open(file_path, 'w') as f:
     for index in animelist:
