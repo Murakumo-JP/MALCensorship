@@ -4,8 +4,6 @@
 .data.image a[href^="/manga/124483/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/1394/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/1391/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/1877/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/11811/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/3804/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/49697/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/79253/"]:before{content: var(--R18);}

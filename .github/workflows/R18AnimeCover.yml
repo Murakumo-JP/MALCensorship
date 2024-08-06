@@ -21,9 +21,13 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Run Python script
+      - name: Run R18Anime
         run: |
           python R18Anime.py
+
+      - name: Run R18Manga
+        run: |
+          python R18Manga.py
 
       - name: Commit and push changes
         run: |
@@ -32,6 +36,7 @@ jobs:
           git fetch origin main
           git checkout main
           git add R18Anime.css
+          git add R18Manga.css
           git diff --cached --quiet && exit 0
           git commit -m "Update Censorship List"
           git push
