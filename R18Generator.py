@@ -29,8 +29,8 @@ def read_existing_entries(file_path):
                 entries.add(line.strip())
     return entries
 
-def append_new_entries(file_path, entries):
-    with open(file_path, 'a') as f:
+def write_entries(file_path, entries):
+    with open(file_path, 'w') as f:
         for entry in entries:
             f.write(entry + '\n')
 
@@ -38,7 +38,8 @@ def scrape_r18_data(base_url, file_path, headers):
     page = 1
     new_entries = set()
     existing_entries = read_existing_entries(file_path)
-    
+    valid_entries = set()
+
     while True:
         print(f"Fetching page {page} of {base_url}...")
         url = f"{base_url}?page={page}"
@@ -53,16 +54,22 @@ def scrape_r18_data(base_url, file_path, headers):
 
         for link in links:
             new_entry = process_link(link)
+            valid_entries.add(new_entry)
             if new_entry not in existing_entries:
                 print(f"Adding new entry: {new_entry}")
                 new_entries.add(new_entry)
-                existing_entries.add(new_entry)
 
         page += 1
 
-    if new_entries:
-        append_new_entries(file_path, new_entries)
-        print(f"New entries added to {file_path}")
+    removed_entries = existing_entries - valid_entries
+    if removed_entries:
+        print(f"Removing invalid entries: {removed_entries}")
+
+    all_valid_entries = valid_entries.union(new_entries)
+    write_entries(file_path, all_valid_entries)
+
+    print(f"New entries added to {file_path}")
+    print(f"Invalid entries removed from {file_path}")
 
 def main():
     headers = {
