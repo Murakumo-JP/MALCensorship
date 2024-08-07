@@ -36,7 +36,6 @@ def write_entries(file_path, entries):
 
 def scrape_r18_data(base_url, file_path, headers):
     page = 1
-    new_entries = set()
     existing_entries = read_existing_entries(file_path)
     valid_entries = set()
 
@@ -55,17 +54,18 @@ def scrape_r18_data(base_url, file_path, headers):
         for link in links:
             new_entry = process_link(link)
             valid_entries.add(new_entry)
-            if new_entry not in existing_entries:
-                print(f"Adding new entry: {new_entry}")
-                new_entries.add(new_entry)
 
         page += 1
 
+    new_entries = valid_entries - existing_entries
     removed_entries = existing_entries - valid_entries
+
+    if new_entries:
+        print(f"Adding new entries: {new_entries}")
     if removed_entries:
         print(f"Removing invalid entries: {removed_entries}")
 
-    all_valid_entries = valid_entries.union(new_entries)
+    all_valid_entries = existing_entries.intersection(valid_entries).union(new_entries)
     write_entries(file_path, all_valid_entries)
 
     print(f"New entries added to {file_path}")
