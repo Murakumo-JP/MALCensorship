@@ -1,0 +1,16 @@
+{
+  "name": "malcensorship",
+  "version": "1.0.0",
+  "description": "> [!WARNING] > This repository was created to move the censorship of Hentai covers to a separate repository and make the process automatic using GitHub Action >",
+  "main": "R18Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "node-fetch": "^3.3.2"
+  }
+}
