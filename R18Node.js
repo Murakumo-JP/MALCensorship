@@ -40,7 +40,7 @@ function readEntries(filePath) {
 
 function writeEntries(filePath, entries) {
   const sorted = Array.from(entries).sort();
-  fs.writeFileSync(filePath, sorted.join("\n") + "\n");
+  fs.writeFileSync(filePath, sorted.join("\n") + "\n", "utf8");
 }
 
 async function scrapeGenre(baseUrl, filePath, headers) {
@@ -48,7 +48,7 @@ async function scrapeGenre(baseUrl, filePath, headers) {
   const existing = readEntries(filePath);
   const current = new Set();
 
-  console.log(`\n=== 🔍 Начинаем парсинг: ${baseUrl} ===`);
+  console.log(`\n=== 🔍 Парсинг: ${baseUrl} ===`);
 
   while (true) {
     const url = `${baseUrl}?page=${page}`;
@@ -64,6 +64,7 @@ async function scrapeGenre(baseUrl, filePath, headers) {
 
     links.forEach((link) => current.add(formatEntry(link)));
     page++;
+    await new Promise((r) => setTimeout(r, 1000));
   }
 
   const newEntries = [...current].filter((e) => !existing.has(e));
@@ -72,12 +73,14 @@ async function scrapeGenre(baseUrl, filePath, headers) {
   if (newEntries.length || removedEntries.length) {
     writeEntries(filePath, current);
     console.log(`✅ Файл обновлён: ${filePath}`);
+    if (newEntries.length) console.log(`➕ Добавлено: ${newEntries.length}`);
+    if (removedEntries.length) console.log(`➖ Удалено: ${removedEntries.length}`);
   } else {
     console.log(`✅ ${filePath} — без изменений`);
   }
 }
 
-
+// === Точка входа ===
 async function main() {
   const headers = {
     "User-Agent":
@@ -86,10 +89,20 @@ async function main() {
       "Chrome/124.0.0.0 Safari/537.36",
   };
 
-  await scrapeGenre("https://myanimelist.net/anime/genre/12/Hentai", "R18Anime.css", headers);
-  await scrapeGenre("https://myanimelist.net/manga/genre/12/Hentai", "R18Manga.css", headers);
+  await scrapeGenre(
+    "https://myanimelist.net/anime/genre/12/Hentai",
+    "R18Anime.css",
+    headers
+  );
+
+  await scrapeGenre(
+    "https://myanimelist.net/manga/genre/12/Hentai",
+    "R18Manga.css",
+    headers
+  );
 
   console.log("\n🎉 Парсинг завершён успешно.\n");
+  process.exit(0);
 }
 
 main().catch((err) => {
