@@ -1,14 +1,11 @@
 {
-  "name": "r18-node",
+  "name": "r18-generator",
   "version": "1.0.0",
-  "type": "module",
-  "description": "Scraper for R18 Anime/Manga lists from MyAnimeList",
-  "main": "R18Node.js",
   "scripts": {
     "start": "node R18Node.js"
   },
   "dependencies": {
-    "cheerio": "^1.0.0",
-    "node-fetch": "^3.3.2"
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12"
   }
 }
