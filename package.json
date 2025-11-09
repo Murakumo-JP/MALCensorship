@@ -1,11 +1,13 @@
 {
   "name": "r18-generator",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "start": "node R18Node.js"
   },
   "dependencies": {
     "axios": "^1.6.8",
-    "cheerio": "^1.0.0-rc.12"
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.3.2"
   }
 }
