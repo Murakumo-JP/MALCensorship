@@ -8,22 +8,23 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: '3.x'
+          node-version: 20
+          cache: 'npm'
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          npm ci || npm install
 
-      - name: Run R18Generator
-        run: |
-          python R18Generator.py
+      - name: Run scraper
+        run: npm start
 
       - name: Commit and push changes
         run: |

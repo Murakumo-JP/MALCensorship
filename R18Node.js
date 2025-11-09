@@ -70,16 +70,6 @@ async function scrapeGenre(baseUrl, filePath, headers) {
   const removedEntries = [...existing].filter((e) => !current.has(e));
 
   if (newEntries.length || removedEntries.length) {
-    console.log(`\n📈 Изменения в ${filePath}:`);
-    if (newEntries.length) {
-      console.log(`  🟢 Добавлено: ${newEntries.length}`);
-      newEntries.forEach((e) => console.log("   +", e));
-    }
-    if (removedEntries.length) {
-      console.log(`  🔴 Удалено: ${removedEntries.length}`);
-      removedEntries.forEach((e) => console.log("   -", e));
-    }
-
     writeEntries(filePath, current);
     console.log(`✅ Файл обновлён: ${filePath}`);
   } else {
