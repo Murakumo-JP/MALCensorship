@@ -40,6 +40,7 @@
 .data.image a[href^="/manga/100456/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/100457/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/100458/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/100459/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/100460/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/100461/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/100465/"]:before{content: var(--R18);}
@@ -47,7 +48,6 @@
 .data.image a[href^="/manga/100470/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/100486/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/100511/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/100523/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/100524/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/100526/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/100527/"]:before{content: var(--R18);}
@@ -79,7 +79,6 @@
 .data.image a[href^="/manga/100715/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/100723/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/100724/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/100725/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/100763/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/100764/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/100779/"]:before{content: var(--R18);}
@@ -93,6 +92,7 @@
 .data.image a[href^="/manga/100873/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/100874/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/100875/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/100882/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/100883/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/100891/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/100901/"]:before{content: var(--R18);}
@@ -110,7 +110,6 @@
 .data.image a[href^="/manga/101012/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/101029/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/101044/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/101076/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/101100/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/101137/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/101144/"]:before{content: var(--R18);}
@@ -172,14 +171,12 @@
 .data.image a[href^="/manga/101970/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/101972/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/101975/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/101976/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/101993/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/101997/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/102004/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/102018/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/102057/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/102079/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/102080/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/102081/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/102094/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/102097/"]:before{content: var(--R18);}
@@ -187,7 +184,6 @@
 .data.image a[href^="/manga/102118/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/102140/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/102141/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/102143/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/102147/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/102151/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/102156/"]:before{content: var(--R18);}
@@ -250,7 +246,6 @@
 .data.image a[href^="/manga/102641/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/102642/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/102643/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/102644/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/102645/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/102646/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/102676/"]:before{content: var(--R18);}
@@ -279,6 +274,7 @@
 .data.image a[href^="/manga/102859/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/102866/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/102874/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/102925/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/103100/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/103107/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/103129/"]:before{content: var(--R18);}
@@ -299,7 +295,6 @@
 .data.image a[href^="/manga/103200/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/103201/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/103202/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/103248/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/103249/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/103250/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/103251/"]:before{content: var(--R18);}
@@ -699,7 +694,6 @@
 .data.image a[href^="/manga/106483/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/106574/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/106597/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/106598/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/106628/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/106629/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/106630/"]:before{content: var(--R18);}
@@ -736,7 +730,6 @@
 .data.image a[href^="/manga/107128/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/107133/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/107150/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/107151/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/107159/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/107160/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/107173/"]:before{content: var(--R18);}
@@ -941,7 +934,6 @@
 .data.image a[href^="/manga/108839/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/108840/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/108841/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/108842/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/108843/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/108844/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/108845/"]:before{content: var(--R18);}
@@ -1016,7 +1008,6 @@
 .data.image a[href^="/manga/109605/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/109607/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/109613/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/109656/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/109697/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/109710/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/109714/"]:before{content: var(--R18);}
@@ -1086,7 +1077,6 @@
 .data.image a[href^="/manga/110463/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/110472/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/110473/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/110474/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/110516/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/110528/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/110529/"]:before{content: var(--R18);}
@@ -1147,7 +1137,6 @@
 .data.image a[href^="/manga/110975/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/110976/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/110977/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/110978/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/110979/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/110986/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/110988/"]:before{content: var(--R18);}
@@ -1357,7 +1346,6 @@
 .data.image a[href^="/manga/115541/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/115544/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/115545/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/115546/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/115547/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/115548/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/115552/"]:before{content: var(--R18);}
@@ -1467,7 +1455,6 @@
 .data.image a[href^="/manga/119178/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/119244/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/119252/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/119273/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/119301/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/11936/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/119370/"]:before{content: var(--R18);}
@@ -1724,7 +1711,6 @@
 .data.image a[href^="/manga/124587/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/124592/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/124593/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/124594/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/124595/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/124596/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/124597/"]:before{content: var(--R18);}
@@ -1821,6 +1807,7 @@
 .data.image a[href^="/manga/127343/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/127427/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/127583/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/127612/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/127616/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/127627/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/127638/"]:before{content: var(--R18);}
@@ -1832,6 +1819,7 @@
 .data.image a[href^="/manga/127743/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/127796/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/127799/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/127807/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/127856/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/127862/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/127864/"]:before{content: var(--R18);}
@@ -1842,6 +1830,7 @@
 .data.image a[href^="/manga/127945/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/127946/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/127964/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/127966/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/128009/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/128010/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/128022/"]:before{content: var(--R18);}
@@ -1854,7 +1843,6 @@
 .data.image a[href^="/manga/128134/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/128135/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/128156/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/128157/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/128158/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/128159/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/128165/"]:before{content: var(--R18);}
@@ -1871,7 +1859,6 @@
 .data.image a[href^="/manga/128257/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/128265/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/128266/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/128267/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/12827/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/128285/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/128307/"]:before{content: var(--R18);}
@@ -1895,6 +1882,7 @@
 .data.image a[href^="/manga/128613/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/128614/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/128642/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/128668/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/128670/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/128672/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/128673/"]:before{content: var(--R18);}
@@ -1932,7 +1920,6 @@
 .data.image a[href^="/manga/129000/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/129004/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/129005/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/129009/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/129014/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/129015/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/129033/"]:before{content: var(--R18);}
@@ -2072,6 +2059,7 @@
 .data.image a[href^="/manga/13333/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/133508/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/13353/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/133536/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/133627/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/133663/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/133720/"]:before{content: var(--R18);}
@@ -2183,7 +2171,6 @@
 .data.image a[href^="/manga/136210/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/136211/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/136212/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/136213/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/136215/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/136216/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/136217/"]:before{content: var(--R18);}
@@ -2253,7 +2240,6 @@
 .data.image a[href^="/manga/136951/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/136952/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/136953/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/136954/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/136956/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/136958/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/137028/"]:before{content: var(--R18);}
@@ -2280,7 +2266,6 @@
 .data.image a[href^="/manga/137330/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/137334/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/137339/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/137340/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/137344/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/137347/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/137348/"]:before{content: var(--R18);}
@@ -2471,6 +2456,7 @@
 .data.image a[href^="/manga/139371/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/139372/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/139374/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/139375/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/1394/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/139478/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/139480/"]:before{content: var(--R18);}
@@ -2481,11 +2467,11 @@
 .data.image a[href^="/manga/139675/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/139676/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/139695/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/139763/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/139799/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/139804/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/139846/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/139854/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/139860/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/139861/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/13987/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/139888/"]:before{content: var(--R18);}
@@ -2593,7 +2579,6 @@
 .data.image a[href^="/manga/141365/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/141366/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/141367/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/141370/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/141371/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/141372/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/141374/"]:before{content: var(--R18);}
@@ -2612,7 +2597,6 @@
 .data.image a[href^="/manga/141710/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/141724/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/141729/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/141741/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/141767/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/141795/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/141796/"]:before{content: var(--R18);}
@@ -2698,7 +2682,6 @@
 .data.image a[href^="/manga/143381/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/143404/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/143405/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/143406/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/143466/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/143518/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/143531/"]:before{content: var(--R18);}
@@ -2830,7 +2813,6 @@
 .data.image a[href^="/manga/146670/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/146671/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/146672/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/146673/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/146674/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/146725/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/146784/"]:before{content: var(--R18);}
@@ -2850,7 +2832,6 @@
 .data.image a[href^="/manga/147134/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/147163/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/147223/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/147225/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/147233/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/147235/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/147236/"]:before{content: var(--R18);}
@@ -2894,7 +2875,6 @@
 .data.image a[href^="/manga/14815/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/14817/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/148181/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/14819/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/148256/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/148293/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/148337/"]:before{content: var(--R18);}
@@ -2946,6 +2926,7 @@
 .data.image a[href^="/manga/149773/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/149774/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/149775/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/149780/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/149785/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/149789/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/149876/"]:before{content: var(--R18);}
@@ -2996,7 +2977,6 @@
 .data.image a[href^="/manga/151568/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/151569/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/151570/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/151571/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/151572/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/151592/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/151606/"]:before{content: var(--R18);}
@@ -3304,7 +3284,6 @@
 .data.image a[href^="/manga/158517/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/158518/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/158519/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/15853/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/158539/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/158572/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/158574/"]:before{content: var(--R18);}
@@ -3398,6 +3377,7 @@
 .data.image a[href^="/manga/16002/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/160044/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/16012/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/16014/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/16017/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/160174/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/160177/"]:before{content: var(--R18);}
@@ -3561,6 +3541,7 @@
 .data.image a[href^="/manga/163159/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/163211/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/16322/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/163226/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/16324/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/16326/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/163279/"]:before{content: var(--R18);}
@@ -4697,7 +4678,6 @@
 .data.image a[href^="/manga/178854/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/178856/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/178858/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/178865/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/178866/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/178867/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/178870/"]:before{content: var(--R18);}
@@ -5876,6 +5856,7 @@
 .data.image a[href^="/manga/187478/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/187577/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/187578/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/187579/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/187580/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/187581/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/187582/"]:before{content: var(--R18);}
@@ -5932,11 +5913,17 @@
 .data.image a[href^="/manga/188194/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/188197/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/188218/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/188258/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/188260/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/188261/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/188262/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/188263/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/188265/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/188269/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/18851/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/18852/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/188567/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/188693/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/18886/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/18921/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/18948/"]:before{content: var(--R18);}
@@ -5966,6 +5953,7 @@
 .data.image a[href^="/manga/19725/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/19756/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/19758/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/19760/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/19783/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/19811/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/19854/"]:before{content: var(--R18);}
@@ -6050,6 +6038,7 @@
 .data.image a[href^="/manga/21169/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/21193/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/21195/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/21196/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/21197/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/21199/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/21206/"]:before{content: var(--R18);}
@@ -6094,7 +6083,6 @@
 .data.image a[href^="/manga/21727/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/21728/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/21746/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/21748/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/21751/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/21764/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/21765/"]:before{content: var(--R18);}
@@ -6428,6 +6416,7 @@
 .data.image a[href^="/manga/24919/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/24920/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/24921/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/24922/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/24924/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/24931/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/24932/"]:before{content: var(--R18);}
@@ -6497,6 +6486,7 @@
 .data.image a[href^="/manga/25511/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/25512/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/25517/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/25523/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/25565/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/25610/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/25619/"]:before{content: var(--R18);}
@@ -6522,7 +6512,6 @@
 .data.image a[href^="/manga/25785/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/25790/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/25802/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/25830/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/25832/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/25865/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/25887/"]:before{content: var(--R18);}
@@ -6631,7 +6620,6 @@
 .data.image a[href^="/manga/27467/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/27525/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/27527/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/27539/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/27541/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/27551/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/27565/"]:before{content: var(--R18);}
@@ -6702,6 +6690,7 @@
 .data.image a[href^="/manga/28673/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/28711/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/28747/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/28767/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/28781/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/28847/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/28849/"]:before{content: var(--R18);}
@@ -6765,6 +6754,7 @@
 .data.image a[href^="/manga/29501/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/29503/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/29507/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/29527/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/29533/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/29535/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/29537/"]:before{content: var(--R18);}
@@ -6795,6 +6785,7 @@
 .data.image a[href^="/manga/29947/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/29965/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/29981/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/30001/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/30003/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/30005/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/30035/"]:before{content: var(--R18);}
@@ -6906,8 +6897,8 @@
 .data.image a[href^="/manga/31021/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/31023/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/31039/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/31047/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/31109/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/31113/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/31139/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/31145/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/31147/"]:before{content: var(--R18);}
@@ -6930,6 +6921,7 @@
 .data.image a[href^="/manga/31665/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/31667/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/31669/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/31671/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/31675/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/31677/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/31679/"]:before{content: var(--R18);}
@@ -7023,9 +7015,9 @@
 .data.image a[href^="/manga/32625/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/32631/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/32633/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/32637/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/32639/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/32643/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/32645/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/32647/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/32649/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/32651/"]:before{content: var(--R18);}
@@ -7140,7 +7132,6 @@
 .data.image a[href^="/manga/3697/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/36995/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/3701/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/3702/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/3703/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/37031/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/3705/"]:before{content: var(--R18);}
@@ -7153,6 +7144,7 @@
 .data.image a[href^="/manga/3736/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/3739/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/3742/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/3744/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/37567/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/37577/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/37583/"]:before{content: var(--R18);}
@@ -7239,6 +7231,7 @@
 .data.image a[href^="/manga/38355/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/38357/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/38359/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/38361/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/38365/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/38367/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/38369/"]:before{content: var(--R18);}
@@ -7427,6 +7420,7 @@
 .data.image a[href^="/manga/38931/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/38933/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/38935/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/38939/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/38943/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/38949/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/38951/"]:before{content: var(--R18);}
@@ -7566,6 +7560,7 @@
 .data.image a[href^="/manga/4106/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/41607/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/41613/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/4162/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/4164/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/4165/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/4169/"]:before{content: var(--R18);}
@@ -7764,6 +7759,7 @@
 .data.image a[href^="/manga/4741/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/47529/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/47601/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/47733/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/47787/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/48037/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/48189/"]:before{content: var(--R18);}
@@ -7971,7 +7967,6 @@
 .data.image a[href^="/manga/52909/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/52911/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/52919/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/52923/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/52925/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/52927/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/52929/"]:before{content: var(--R18);}
@@ -8160,7 +8155,6 @@
 .data.image a[href^="/manga/53471/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/53473/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/53475/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/53479/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/53481/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/53483/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/53485/"]:before{content: var(--R18);}
@@ -8184,6 +8178,7 @@
 .data.image a[href^="/manga/53559/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/53561/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/53563/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/53565/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/53571/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/53573/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/53577/"]:before{content: var(--R18);}
@@ -8202,9 +8197,7 @@
 .data.image a[href^="/manga/53607/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/53611/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/53613/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/53615/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/53617/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/53619/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/53621/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/53623/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/53625/"]:before{content: var(--R18);}
@@ -8368,7 +8361,6 @@
 .data.image a[href^="/manga/54231/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/54317/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/5435/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/5436/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/5437/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/5439/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/54479/"]:before{content: var(--R18);}
@@ -8430,6 +8422,7 @@
 .data.image a[href^="/manga/55645/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/55651/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/55653/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/55655/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/55657/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/55659/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/55663/"]:before{content: var(--R18);}
@@ -8511,7 +8504,6 @@
 .data.image a[href^="/manga/56305/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/56335/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/56337/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/56369/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/56371/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/56561/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/56593/"]:before{content: var(--R18);}
@@ -8540,7 +8532,6 @@
 .data.image a[href^="/manga/57565/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/57571/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/57575/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/57577/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/57591/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/57595/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/57601/"]:before{content: var(--R18);}
@@ -8691,6 +8682,7 @@
 .data.image a[href^="/manga/59003/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/59005/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/59007/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/59009/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/59011/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/59013/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/59041/"]:before{content: var(--R18);}
@@ -9296,6 +9288,7 @@
 .data.image a[href^="/manga/63319/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/63331/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/63341/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/63343/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/63347/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/63349/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/63351/"]:before{content: var(--R18);}
@@ -9610,6 +9603,7 @@
 .data.image a[href^="/manga/65715/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/65731/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/65735/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/65741/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/65763/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/65765/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/65767/"]:before{content: var(--R18);}
@@ -10146,6 +10140,7 @@
 .data.image a[href^="/manga/69709/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/69711/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/69715/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/69717/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/69719/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/6972/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/69721/"]:before{content: var(--R18);}
@@ -10392,6 +10387,7 @@
 .data.image a[href^="/manga/71421/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/71423/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/71425/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/71427/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/71437/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/71449/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/71451/"]:before{content: var(--R18);}
@@ -10610,6 +10606,7 @@
 .data.image a[href^="/manga/73487/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/73489/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/73539/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/73649/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/73651/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/73653/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/73655/"]:before{content: var(--R18);}
@@ -10715,6 +10712,7 @@
 .data.image a[href^="/manga/74547/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/74559/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/74561/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/74571/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/74583/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/74585/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/74589/"]:before{content: var(--R18);}
@@ -11092,6 +11090,7 @@
 .data.image a[href^="/manga/77203/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/77205/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/77207/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/77295/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/77299/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/77309/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/77311/"]:before{content: var(--R18);}
@@ -11337,6 +11336,7 @@
 .data.image a[href^="/manga/79337/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/79341/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/79343/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/79345/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/79347/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/79349/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/79351/"]:before{content: var(--R18);}
@@ -11845,6 +11845,7 @@
 .data.image a[href^="/manga/84593/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/84611/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/84695/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/84721/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/84781/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/84843/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/84903/"]:before{content: var(--R18);}
@@ -12125,7 +12126,6 @@
 .data.image a[href^="/manga/87094/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/87103/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/87108/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/87214/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/87311/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/87312/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/87313/"]:before{content: var(--R18);}
@@ -12293,7 +12293,6 @@
 .data.image a[href^="/manga/88307/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/88308/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/88316/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/88324/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/88325/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/88371/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/88372/"]:before{content: var(--R18);}
@@ -12352,6 +12351,7 @@
 .data.image a[href^="/manga/88822/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/88823/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/88824/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/88825/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/88826/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/88827/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/88829/"]:before{content: var(--R18);}
@@ -12430,7 +12430,6 @@
 .data.image a[href^="/manga/89311/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/89312/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/89314/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/89316/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/89326/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/89327/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/89328/"]:before{content: var(--R18);}
@@ -12449,7 +12448,6 @@
 .data.image a[href^="/manga/89508/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/89509/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/89510/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/89511/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/89512/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/89515/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/89516/"]:before{content: var(--R18);}
@@ -12457,7 +12455,6 @@
 .data.image a[href^="/manga/89518/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/89519/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/89521/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/89522/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/89524/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/89525/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/89526/"]:before{content: var(--R18);}
@@ -12997,7 +12994,6 @@
 .data.image a[href^="/manga/94102/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/94103/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/94106/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/94125/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/94135/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/94136/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/94138/"]:before{content: var(--R18);}
@@ -13090,7 +13086,6 @@
 .data.image a[href^="/manga/95162/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/95163/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/95164/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/95190/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/95191/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/95192/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/95194/"]:before{content: var(--R18);}
@@ -13166,7 +13161,6 @@
 .data.image a[href^="/manga/95994/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/96005/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/96006/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/96008/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/96009/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/96027/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/96052/"]:before{content: var(--R18);}
@@ -13193,7 +13187,6 @@
 .data.image a[href^="/manga/96232/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/96242/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/96253/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/96269/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/96270/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/96271/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/96272/"]:before{content: var(--R18);}
@@ -13207,6 +13200,7 @@
 .data.image a[href^="/manga/96379/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/96380/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/96397/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/96433/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/96442/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/96443/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/96444/"]:before{content: var(--R18);}
@@ -13261,7 +13255,6 @@
 .data.image a[href^="/manga/96869/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/96903/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/96904/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/96909/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/96917/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/96921/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/96933/"]:before{content: var(--R18);}
@@ -13351,7 +13344,6 @@
 .data.image a[href^="/manga/97387/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/97399/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/97400/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/97401/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/97407/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/97409/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/97410/"]:before{content: var(--R18);}
@@ -13470,7 +13462,6 @@
 .data.image a[href^="/manga/97891/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/97896/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/97897/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/97898/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/97904/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/97905/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/97907/"]:before{content: var(--R18);}
@@ -13565,6 +13556,7 @@
 .data.image a[href^="/manga/98473/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/98474/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/98482/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/98483/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/98487/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/98512/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/98523/"]:before{content: var(--R18);}
@@ -13588,7 +13580,6 @@
 .data.image a[href^="/manga/98839/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/98857/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/98866/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/98867/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/98868/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/98869/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/98870/"]:before{content: var(--R18);}
@@ -13623,6 +13614,7 @@
 .data.image a[href^="/manga/9912/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/99128/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/9913/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/99138/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/9914/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/9916/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/99165/"]:before{content: var(--R18);}
@@ -13661,7 +13653,6 @@
 .data.image a[href^="/manga/99330/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/99337/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/99338/"]:before{content: var(--R18);}
-.data.image a[href^="/manga/99339/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/99368/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/99370/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/99371/"]:before{content: var(--R18);}
@@ -13718,6 +13709,7 @@
 .data.image a[href^="/manga/99550/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/99551/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/99553/"]:before{content: var(--R18);}
+.data.image a[href^="/manga/9956/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/9957/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/9958/"]:before{content: var(--R18);}
 .data.image a[href^="/manga/9959/"]:before{content: var(--R18);}
