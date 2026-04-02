@@ -12,14 +12,17 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
 
       - name: Install dependencies
-        run: npm install --no-package-lock
+        run: npm install
 
       - name: Run scraper
         run: npm start
@@ -28,10 +31,17 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git fetch origin main
-          git checkout main
-          git add R18Anime.css
-          git add R18Manga.css
-          git diff --cached --quiet && exit 0
-          git commit -m "Update Censorship List"
-          git push
+          
+          # Добавляем конкретные файлы из папки data
+          # Если файлов много, можно использовать: git add data/*.css
+          git add data/R18Anime.css
+          git add data/R18Manga.css
+          
+          # Проверяем, есть ли изменения, чтобы не создавать пустой коммит
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          
+          git commit -m "Update Censorship List (Auto)"
+          git push origin main

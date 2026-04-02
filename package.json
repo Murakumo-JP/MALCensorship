@@ -3,11 +3,24 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "node R18Node.js"
+    "start": "node index.js"
   },
   "dependencies": {
-    "axios": "^1.6.8",
-    "cheerio": "^1.0.0-rc.12",
+    "axios": "^1.14.0",
+    "cheerio": "^1.2.0",
     "node-fetch": "^3.3.2"
-  }
+  },
+  "description": "> [!WARNING]\r > This repository was created to move the censorship of Hentai covers to a separate repository and make the process automatic using GitHub Action\r >",
+  "main": "indexjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Murakumo-JP/MALCensorship.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Murakumo-JP/MALCensorship/issues"
+  },
+  "homepage": "https://github.com/Murakumo-JP/MALCensorship#readme"
 }
